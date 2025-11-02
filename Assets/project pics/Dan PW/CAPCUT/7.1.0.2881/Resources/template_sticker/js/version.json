@@ -1,0 +1,11 @@
+{
+    "date": "2025-08-27 13:14:07 +0800",
+    "author": "fengzicheng",
+    "source": "f/fengzicheng/19.8.0/text_keyframe_bug",
+    "branch": "release/19.8.0",
+    "commit": {
+        "id": "ce43570ba06299afd6325e704b3730c515a05920",
+        "message": "fix: move text_keyframes out of keyframes"
+    },
+    "buildingTime": "2025-08-28 11:06:42"
+}

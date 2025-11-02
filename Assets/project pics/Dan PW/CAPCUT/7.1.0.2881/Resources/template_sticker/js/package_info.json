@@ -1,0 +1,18 @@
+{
+  "name": "ccc_segment_js",
+  "version": "202508281102.879.ce43570b.js.feat",
+  "file_list": [
+    {
+      "path": "main.js",
+      "checksum": "832a0151b14680ccb84f1a1974f7fd56b55b98b593ac629359f0d615c6781a69"
+    },
+    {
+      "path": "template\\template.js",
+      "checksum": "36cb4bd50d5e9accd94860a8c70210e33d8658741d12a1ec579710228e9331d7"
+    },
+    {
+      "path": "version.json",
+      "checksum": "df7f48b6c80d9a80ce4da4c7996d0398c7df7f6a60430cef298ad7b76cae2264"
+    }
+  ]
+}
